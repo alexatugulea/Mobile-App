@@ -1,2 +1,2 @@
-#This is an instagram similar copy
+This is an instagram similar copy.
 Build on the lannguage kothlin
